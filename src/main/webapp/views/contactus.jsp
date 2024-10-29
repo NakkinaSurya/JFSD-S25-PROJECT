@@ -110,7 +110,7 @@
 </head>
 <body>
     <div class="navbar">
-        <div class="logo"><a href="/"><img src="https://via.placeholder.com/100x40" alt="Logo"></a></div>
+        <div class="logo"><a href="/"><img src="https://th.bing.com/th/id/OIP.LxdqG_DdPLJ6m-e4d32tOAHaDU?w=348&h=156&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Logo"></a></div>
         <ul class="nav-links">
             <li><a href="/">Home</a></li>
             <li><a href="/aboutus">About Us</a></li>
